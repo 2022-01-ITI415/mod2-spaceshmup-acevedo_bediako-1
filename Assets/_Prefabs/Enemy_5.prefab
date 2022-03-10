@@ -162,7 +162,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 452ddae8d3ae614418f9d00270068ada, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 10
+  speed: 7
   fireRate: 0.3
   health: 10
   score: 100
@@ -212,9 +212,9 @@ MonoBehaviour:
   - {fileID: 1864666716847092, guid: cde19c65a794e8e418744408ad54809b, type: 3}
   - {fileID: 1864666716847092, guid: cde19c65a794e8e418744408ad54809b, type: 3}
   - {fileID: 1864666716847092, guid: 8b703b5aed00f5141b475ef7f106baba, type: 3}
+  - {fileID: 1864666716847092, guid: 8b703b5aed00f5141b475ef7f106baba, type: 3}
   - {fileID: 1864666716847092, guid: adf3a81baf6d7424fb5bb504a0a2eac5, type: 3}
-  - {fileID: 1864666716847092, guid: adf3a81baf6d7424fb5bb504a0a2eac5, type: 3}
-  enemySpawnPerSecond: 1
+  enemySpawnPerSecond: 0.5
   enemyPadding: 2
 --- !u!114 &114091118160397558
 MonoBehaviour:
