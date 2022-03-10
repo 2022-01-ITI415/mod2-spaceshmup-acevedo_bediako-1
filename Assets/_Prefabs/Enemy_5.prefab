@@ -207,6 +207,11 @@ MonoBehaviour:
     protectedBy: []
     go: {fileID: 0}
     mat: {fileID: 0}
+  prefabEnemies:
+  - {fileID: 1864666716847092, guid: cde19c65a794e8e418744408ad54809b, type: 3}
+  - {fileID: 1864666716847092, guid: 8b703b5aed00f5141b475ef7f106baba, type: 3}
+  enemySpawnPerSecond: 1
+  enemyPadding: 2
 --- !u!114 &114091118160397558
 MonoBehaviour:
   m_ObjectHideFlags: 0
